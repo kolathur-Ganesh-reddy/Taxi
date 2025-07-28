@@ -1,6 +1,6 @@
 # 🚖 Taxi Booking System - Admin Panel
 A full-stack Taxi Booking System Admin Panel built to manage users, drivers, bookings, payments, and promotions. This dashboard is designed for administrators to efficiently monitor and control all aspects of the taxi service.
-
+![Image](https://github.com/user-attachments/assets/485c8ed1-c3a8-4c9d-a263-ae302b778c72)
 # 🌟 Advanced Concepts & Features
  📈 Analytics & Reporting
  
