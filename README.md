@@ -48,3 +48,14 @@ View promotion details
 Manage system settings
 
 Create and manage support tickets
+
+# ⚙️ Tech Stack
+Frontend:
+
+React + TypeScript + Vite
+
+Shadcn/UI for beautiful components
+
+TailwindCSS for styling
+
+React Router for navigation
