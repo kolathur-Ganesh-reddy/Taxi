@@ -3,17 +3,24 @@ A full-stack Taxi Booking System Admin Panel built to manage users, drivers, boo
 
 # 🌟 Advanced Concepts & Features
  📈 Analytics & Reporting
+ 
 Generate visual reports for earnings, user growth, and ride statistics.
 Export reports as PDF or Excel files.
 Real-time dashboards for key performance indicators (KPIs).
 
+
 🎯 Advanced Promotion Engine
+
 Targeted promotions based on user location, ride history, or loyalty.
 Promo code usage stats and limits.
+
  🏆 Loyalty & Rewards Management
 Points system for frequent users.
+
 Tiered rewards (bronze, silver, gold) with exclusive offers.
+
  ⚠️ Incident & Feedback Management
+ 
 Log and manage ride incidents or complaints.
 Feedback dashboard for drivers and users.
 # 📌 Features
